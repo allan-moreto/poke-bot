@@ -1,0 +1,10 @@
+3.00 - Bot Starting up!
+2.30 - found a wild ledian
+2.48 - Fight image found, may attack now!
+1.00 - clicking number 4
+0.23 - ran from elites
+0.20 - clicking number 1
+0.32 - clicking number 1
+4.46 - is_alive? True
+2.33 - ledian double checked, IS DEF ALIVE, is LEAD alive? check now
+0.30 - lead is dead
