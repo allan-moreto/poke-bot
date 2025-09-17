@@ -5803,4 +5803,4 @@ s ty e has NOT passed name verification
 weepinbell corrected to weepinbell
 [DEBUG] Pressing 4 current pokemon: 648
 [DEBUG] Pressing 1 current pokemon: 648
-[DEBUG] Pressing 1 current pokemon: 648
+[DEBUG] Pressing 1 current pokemon: 64
