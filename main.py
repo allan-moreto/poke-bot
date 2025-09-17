@@ -2,18 +2,19 @@ import utils
 import time
 import sys
 import threading
-import pyautogui
-import random
+import helper
+
 
 time.sleep(3)
 
 logfile = open("log.txt", "w")
 sys.stdout = logfile
 
-FIGHT_IMAGE_REGION = (980, 980, 980 + 126, 980 + 46)
+FIGHT_IMAGE_REGION = (940, 966, 1154, 1044)
 FIGHT_IMAGE_PATH = "./fight.png"
-LEAD_REGION= (1693, 814, 1693 + 191, 814 + 24)
-LEAD_PATH = "./assets/active_pokemon/deoxys.png"
+LEAD_REGION= (1676, 800, 1996, 850)
+LEAD_PATH = "./deoxys_name.png"
+CURRENT_MOVE = ""
 
 moves = {
     "golem": "2",
@@ -21,52 +22,61 @@ moves = {
     "gyarados": "3",
     "magcargo": "4",
     "magneton": "4",
-    "crawdaunt": "3"
+    "crawdaunt": "3",
+    "excadrill": "4"
 }
 running = True
 
+
 def battle_loop():
-    utils.log("Bot Starting up!")
+    global CURRENT_MOVE
     global running
     while running:
+        helper.current_pokemon += 1
+        print(f"Current Pokemon is {helper.current_pokemon}")
         pokemon = utils.detect_pokemon()
-        utils.log(f"found a wild {pokemon}")
-        running = False
+        # running = False
         is_in_dict = pokemon in moves
 
         utils.wait_for_img(FIGHT_IMAGE_PATH, FIGHT_IMAGE_REGION)
-        time.sleep(1)
+        # time.sleep(1)
         utils.elite_run() # this might need to get fixed.. if runs from elite, still going to wait 4 seconds and attack which will mess with timing, for now lets skip this
 
         if not is_in_dict:
             utils.attack("1")
+            CURRENT_MOVE = "1"
         else:
             utils.attack(moves[pokemon])
+            CURRENT_MOVE = moves[pokemon]
 
         time.sleep(4)
         is_alive = utils.check_if_alive(pokemon)
-        utils.log(f"is_alive? {is_alive}")
         
 
         if is_alive:
             time.sleep(2)
             is_alive = utils.check_if_alive(pokemon)
             if is_alive:
-                utils.log(f"{pokemon} double checked, IS DEF ALIVE, is LEAD alive? check now")
-                is_lead_alive = utils.is_lead_alive(LEAD_PATH, LEAD_REGION)
+                # is_lead_alive = utils.is_lead_alive(LEAD_PATH, LEAD_REGION, 0.9)
+                is_lead_alive = utils.is_lead_alive()
 
                 if is_lead_alive:
-                    utils.log("lead is alive")
-                else:
-                    utils.log("lead is dead")
+                    utils.wait_for_img(FIGHT_IMAGE_PATH, FIGHT_IMAGE_REGION)
+                    utils.attack(CURRENT_MOVE)
+                    time.sleep(5)
                     continue
-                
+                    # running = True
+                else:
+                    time.sleep(.3)
+                    utils.switch_to_sweeper()
+                    continue
+                    # running = True
             else:
-                time.sleep(0.5) ## REMOVE TO TEST LATER might not be necessary
-            running = True
+                continue
+                # running = True
         else:
-            time.sleep(0.5) ## REMOVE TO TEST LATER might not be necessary
-            running = True
+            continue
+        #     # running = True
 
 
 # def walk():

@@ -1,0 +1,1 @@
+current_pokemon = 0
