@@ -1,2494 +1,950 @@
 Current Pokemon is 1
-o has NOT passed name verification
-a e has NOT passed name verification
-t nn has NOT passed name verification
-ariados corrected to ariados
-[DEBUG] Pressing 4 current pokemon: 1
-[DEBUG] Pressing 1 current pokemon: 1
-[DEBUG] Pressing 1 current pokemon: 1
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 2
-o has NOT passed name verification
-i e ty has NOT passed name verification
-a e has NOT passed name verification
-o t e t has NOT passed name verification
-o e has NOT passed name verification
-e iy d has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 2
-[DEBUG] Pressing 1 current pokemon: 2
-[DEBUG] Pressing 1 current pokemon: 2
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 3
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 3
-[DEBUG] Pressing 1 current pokemon: 3
-[DEBUG] Pressing 1 current pokemon: 3
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 4
-o e has NOT passed name verification
-o iy d has NOT passed name verification
-e e oy has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 4
-[DEBUG] Pressing 1 current pokemon: 4
-[DEBUG] Pressing 1 current pokemon: 4
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 5
-t e has NOT passed name verification
-o e has NOT passed name verification
 gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 5
-[DEBUG] Pressing 1 current pokemon: 5
-[DEBUG] Pressing 3 current pokemon: 5
-[DEBUG] Pressing 1 current pokemon: 5
-[DEBUG] Pressing 3 current pokemon: 5
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 6
-e e iy t has NOT passed name verification
-magneton corrected to magneton
-[DEBUG] Pressing 4 current pokemon: 6
-[DEBUG] Pressing 1 current pokemon: 6
-[DEBUG] Pressing 4 current pokemon: 6
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 7
-t t t has NOT passed name verification
-t t t has NOT passed name verification
-n t e has NOT passed name verification
-ety a has NOT passed name verification
-r t i has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 7
-[DEBUG] Pressing 1 current pokemon: 7
-[DEBUG] Pressing 4 current pokemon: 7
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 8
-e e oy has NOT passed name verification
-e ty has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 8
-[DEBUG] Pressing 1 current pokemon: 8
-[DEBUG] Pressing 1 current pokemon: 8
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 9
-o e has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-e e o has NOT passed name verification
-a e has NOT passed name verification
-e iy d has NOT passed name verification
-a e has NOT passed name verification
-e iy s has NOT passed name verification
 magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 9
-[DEBUG] Pressing 1 current pokemon: 9
-[DEBUG] Pressing 4 current pokemon: 9
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 10
-s ty e has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-r t i has NOT passed name verification
-s ty e has NOT passed name verification
-o has NOT passed name verification
-a e has NOT passed name verification
-r t i has NOT passed name verification
-e e o has NOT passed name verification
-o has NOT passed name verification
-e iy d has NOT passed name verification
-o e has NOT passed name verification
-o has NOT passed name verification
-e iy s has NOT passed name verification
-t t t has NOT passed name verification
-i e ty has NOT passed name verification
-s ty e has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 10
-[DEBUG] Pressing 1 current pokemon: 10
-[DEBUG] Pressing 1 current pokemon: 10
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 11
-a e has NOT passed name verification
-s ty e has NOT passed name verification
-t nn has NOT passed name verification
-o has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 11
-[DEBUG] Pressing 1 current pokemon: 11
-[DEBUG] Pressing 4 current pokemon: 11
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 12
-oy d has NOT passed name verification
-o has NOT passed name verification
-o iy d has NOT passed name verification
-r t i has NOT passed name verification
-t 2 d t has NOT passed name verification
-e e oy has NOT passed name verification
-t t t has NOT passed name verification
-r t i has NOT passed name verification
-r t e has NOT passed name verification
-o e has NOT passed name verification
-o has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 12
-[DEBUG] Pressing 1 current pokemon: 12
-[DEBUG] Pressing 4 current pokemon: 12
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 13
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 13
-[DEBUG] Pressing 1 current pokemon: 13
-[DEBUG] Pressing 3 current pokemon: 13
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 14
-o y has NOT passed name verification
-e ty has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 14
-[DEBUG] Pressing 1 current pokemon: 14
-[DEBUG] Pressing 4 current pokemon: 14
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 15
-o y has NOT passed name verification
-e s ty has NOT passed name verification
-ariados corrected to ariados
-[DEBUG] Pressing 4 current pokemon: 15
-[DEBUG] Pressing 1 current pokemon: 15
-[DEBUG] Pressing 1 current pokemon: 15
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 16
-e e o has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 16
-[DEBUG] Pressing 1 current pokemon: 16
-[DEBUG] Pressing 2 current pokemon: 16
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 17
-t s ty e ty has NOT passed name verification
-o has NOT passed name verification
-i st has NOT passed name verification
-gloom corrected to gloom
-[DEBUG] Pressing 4 current pokemon: 17
-[DEBUG] Pressing 1 current pokemon: 17
-[DEBUG] Pressing 1 current pokemon: 17
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 18
-o y has NOT passed name verification
-o has NOT passed name verification
-s s has NOT passed name verification
-o has NOT passed name verification
-e e has NOT passed name verification
-o has NOT passed name verification
-s has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 18
-[DEBUG] Pressing 1 current pokemon: 18
-[DEBUG] Pressing 2 current pokemon: 18
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 19
-t nn has NOT passed name verification
-o has NOT passed name verification
-i st has NOT passed name verification
-i w has NOT passed name verification
-e e o has NOT passed name verification
-o has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 19
-[DEBUG] Pressing 1 current pokemon: 19
-[DEBUG] Pressing 1 current pokemon: 19
+sandslash corrected to sandslash
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 20
-a e has NOT passed name verification
-e e o has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 20
-[DEBUG] Pressing 1 current pokemon: 20
-[DEBUG] Pressing 3 current pokemon: 20
-[DEBUG] Pressing 2 current pokemon: 20
-[DEBUG] Pressing 1 current pokemon: 20
-[DEBUG] Pressing 1 current pokemon: 20
-gyarados corrected to gyarados
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 21
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 21
-[DEBUG] Pressing 1 current pokemon: 21
-[DEBUG] Pressing 3 current pokemon: 21
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 22
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 22
-[DEBUG] Pressing 1 current pokemon: 22
-[DEBUG] Pressing 4 current pokemon: 22
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 23
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 23
-[DEBUG] Pressing 1 current pokemon: 23
-[DEBUG] Pressing 3 current pokemon: 23
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 24
-i e ty has NOT passed name verification
-t e has NOT passed name verification
-t e has NOT passed name verification
-a e has NOT passed name verification
-e e oy has NOT passed name verification
-t 2 d t has NOT passed name verification
-r t e has NOT passed name verification
-s ty e has NOT passed name verification
-o has NOT passed name verification
-e e ) has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 24
-[DEBUG] Pressing 1 current pokemon: 24
-[DEBUG] Pressing 2 current pokemon: 24
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 25
-t e ty v has NOT passed name verification
-sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 25
-[DEBUG] Pressing 1 current pokemon: 25
-[DEBUG] Pressing 2 current pokemon: 25
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 26
-ety a has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 26
-[DEBUG] Pressing 1 current pokemon: 26
-[DEBUG] Pressing 1 current pokemon: 26
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 27
-o e has NOT passed name verification
-t t e t has NOT passed name verification
-bty a has NOT passed name verification
-o e has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 27
-[DEBUG] Pressing 1 current pokemon: 27
-[DEBUG] Pressing 1 current pokemon: 27
+ariados corrected to ariados
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 28
-o iy d has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 28
-[DEBUG] Pressing 1 current pokemon: 28
-[DEBUG] Pressing 1 current pokemon: 28
+ariados corrected to ariados
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 29
-e e oy has NOT passed name verification
-o iy e t s has NOT passed name verification
-bty a has NOT passed name verification
 golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 29
-[DEBUG] Pressing 1 current pokemon: 29
-[DEBUG] Pressing 2 current pokemon: 29
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 30
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 30
-[DEBUG] Pressing 1 current pokemon: 30
-[DEBUG] Pressing 1 current pokemon: 30
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 31
-r t e has NOT passed name verification
-s ty e has NOT passed name verification
-o iy d has NOT passed name verification
-r t i has NOT passed name verification
-n t e has NOT passed name verification
-t t t has NOT passed name verification
-e ty has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 31
-[DEBUG] Pressing 1 current pokemon: 31
-[DEBUG] Pressing 1 current pokemon: 31
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
+[UTILS] switching to sweeper (press 2)...
+Pressing key: 2
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 32
-r t e has NOT passed name verification
-s ty e has NOT passed name verification
-t e has NOT passed name verification
-ety a has NOT passed name verification
-sn s e has NOT passed name verification
-t e ty v has NOT passed name verification
-t e ty v has NOT passed name verification
-sn s e has NOT passed name verification
-sn s e has NOT passed name verification
-r t i has NOT passed name verification
-t e has NOT passed name verification
-ety a has NOT passed name verification
-n e has NOT passed name verification
-sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 32
-[DEBUG] Pressing 1 current pokemon: 32
-[DEBUG] Pressing 2 current pokemon: 32
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 33
-o e has NOT passed name verification
-n e has NOT passed name verification
-t e has NOT passed name verification
-o e has NOT passed name verification
-gloom corrected to gloom
-[DEBUG] Pressing 4 current pokemon: 33
-[DEBUG] Pressing 1 current pokemon: 33
-[DEBUG] Pressing 1 current pokemon: 33
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 34
-o has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 34
-[DEBUG] Pressing 1 current pokemon: 34
-[DEBUG] Pressing 1 current pokemon: 34
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 35
-weepinbell corrected to weepinbell
-[DEBUG] Pressing 4 current pokemon: 35
-[DEBUG] Pressing 1 current pokemon: 35
-[DEBUG] Pressing 1 current pokemon: 35
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
+[UTILS] switching to sweeper (press 2)...
+Pressing key: 2
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 36
-t nn has NOT passed name verification
-a e has NOT passed name verification
-i e ty has NOT passed name verification
-t s ty e ty has NOT passed name verification
-s s has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 36
-[DEBUG] Pressing 1 current pokemon: 36
-[DEBUG] Pressing 3 current pokemon: 36
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 37
-e ty has NOT passed name verification
-o i, s has NOT passed name verification
-i w has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 37
-[DEBUG] Pressing 1 current pokemon: 37
-[DEBUG] Pressing 1 current pokemon: 37
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 38
-e iy d has NOT passed name verification
-a e has NOT passed name verification
-o y has NOT passed name verification
-s has NOT passed name verification
 nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 38
-[DEBUG] Pressing 1 current pokemon: 38
-[DEBUG] Pressing 1 current pokemon: 38
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 39
-e e o has NOT passed name verification
-a e has NOT passed name verification
-b i sy e has NOT passed name verification
-i e ty has NOT passed name verification
-a e has NOT passed name verification
-i st has NOT passed name verification
-e e has NOT passed name verification
-s ty e has NOT passed name verification
-i e ty has NOT passed name verification
-ey ny e has NOT passed name verification
-b i sy e has NOT passed name verification
-o has NOT passed name verification
-e e o has NOT passed name verification
-i w has NOT passed name verification
-e s ty has NOT passed name verification
-o has NOT passed name verification
-t t t has NOT passed name verification
-o y has NOT passed name verification
-o has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 39
-[DEBUG] Pressing 1 current pokemon: 39
-[DEBUG] Pressing 1 current pokemon: 39
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 40
-o e has NOT passed name verification
-o has NOT passed name verification
-e e oy has NOT passed name verification
-r t i has NOT passed name verification
-r t i has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 40
-[DEBUG] Pressing 1 current pokemon: 40
-[DEBUG] Pressing 1 current pokemon: 40
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 41
-i e ty has NOT passed name verification
-e ty has NOT passed name verification
-t t t has NOT passed name verification
-s has NOT passed name verification
-ariados corrected to ariados
-[DEBUG] Pressing 4 current pokemon: 41
-[DEBUG] Pressing 1 current pokemon: 41
-[DEBUG] Pressing 1 current pokemon: 41
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 42
-b i sy e has NOT passed name verification
-e iy d has NOT passed name verification
-o y has NOT passed name verification
-o has NOT passed name verification
-e iy s has NOT passed name verification
-e s ty has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-b i sy e has NOT passed name verification
-o has NOT passed name verification
-e ty has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 42
-[DEBUG] Pressing 1 current pokemon: 42
-[DEBUG] Pressing 2 current pokemon: 42
-Current Pokemon is 43
-ey ny e has NOT passed name verification
-o has NOT passed name verification
-e s ty has NOT passed name verification
-o e e has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 43
-[DEBUG] Pressing 1 current pokemon: 43
-[DEBUG] Pressing 4 current pokemon: 43
-Current Pokemon is 44
-o has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 44
-[DEBUG] Pressing 1 current pokemon: 44
-[DEBUG] Pressing 1 current pokemon: 44
-Current Pokemon is 45
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 45
-[DEBUG] Pressing 1 current pokemon: 45
-[DEBUG] Pressing 4 current pokemon: 45
-Current Pokemon is 46
-a e has NOT passed name verification
-o has NOT passed name verification
-e s ty has NOT passed name verification
-o has NOT passed name verification
 ariados corrected to ariados
-[DEBUG] Pressing 4 current pokemon: 46
-[DEBUG] Pressing 1 current pokemon: 46
-[DEBUG] Pressing 1 current pokemon: 46
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 43
+ledian corrected to ledian
+Pressing key: 1
+Pressing key: 1
+[UTILS] switching to sweeper (press 2)...
+Pressing key: 2
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 44
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 45
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
+Current Pokemon is 46
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 47
-o has NOT passed name verification
-e s ty has NOT passed name verification
-o y has NOT passed name verification
-a e has NOT passed name verification
-o has NOT passed name verification
-a e has NOT passed name verification
-sunflora corrected to sunflora
-[DEBUG] Pressing 4 current pokemon: 47
-[DEBUG] Pressing 1 current pokemon: 47
-[DEBUG] Pressing 1 current pokemon: 47
-[DEBUG] Pressing 1 current pokemon: 47
-[DEBUG] Pressing 1 current pokemon: 47
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 48
-o iy d has NOT passed name verification
 gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 48
-[DEBUG] Pressing 1 current pokemon: 48
-[DEBUG] Pressing 3 current pokemon: 48
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 49
-t nn has NOT passed name verification
-o has NOT passed name verification
-b i sy e has NOT passed name verification
-o has NOT passed name verification
-o iy d has NOT passed name verification
-a e has NOT passed name verification
-o has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 49
-[DEBUG] Pressing 1 current pokemon: 49
-[DEBUG] Pressing 1 current pokemon: 49
+ariados corrected to ariados
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 50
-e ty has NOT passed name verification
-rockruff corrected to rockruff
-[DEBUG] Pressing 4 current pokemon: 50
-[DEBUG] Pressing 1 current pokemon: 50
-[DEBUG] Pressing 1 current pokemon: 50
-Current Pokemon is 51
-o has NOT passed name verification
-t nn has NOT passed name verification
-o has NOT passed name verification
-t nn has NOT passed name verification
-s has NOT passed name verification
-sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 51
-[DEBUG] Pressing 1 current pokemon: 51
-[DEBUG] Pressing 2 current pokemon: 51
-Current Pokemon is 52
-e ty has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 52
-[DEBUG] Pressing 1 current pokemon: 52
-[DEBUG] Pressing 4 current pokemon: 52
-Current Pokemon is 53
-o has NOT passed name verification
-o i, s has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 53
-[DEBUG] Pressing 1 current pokemon: 53
-[DEBUG] Pressing 1 current pokemon: 53
-Current Pokemon is 54
-t t t has NOT passed name verification
-i e ty has NOT passed name verification
-e e o has NOT passed name verification
-s has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 54
-[DEBUG] Pressing 1 current pokemon: 54
-[DEBUG] Pressing 1 current pokemon: 54
-Current Pokemon is 55
-sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 55
-[DEBUG] Pressing 1 current pokemon: 55
-[DEBUG] Pressing 2 current pokemon: 55
-Current Pokemon is 56
-o has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 56
-[DEBUG] Pressing 1 current pokemon: 56
-[DEBUG] Pressing 2 current pokemon: 56
-Current Pokemon is 57
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 57
-[DEBUG] Pressing 1 current pokemon: 57
-[DEBUG] Pressing 1 current pokemon: 57
-Current Pokemon is 58
-t has NOT passed name verification
-o e has NOT passed name verification
-s has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 58
-[DEBUG] Pressing 1 current pokemon: 58
-[DEBUG] Pressing 3 current pokemon: 58
-[DEBUG] Pressing 2 current pokemon: 58
-[DEBUG] Pressing 1 current pokemon: 58
-[DEBUG] Pressing 1 current pokemon: 58
-gyarados corrected to gyarados
-Current Pokemon is 59
-sn s e has NOT passed name verification
-t t has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 59
-[DEBUG] Pressing 1 current pokemon: 59
-[DEBUG] Pressing 3 current pokemon: 59
-Current Pokemon is 60
-ety a has NOT passed name verification
-r t i has NOT passed name verification
-gloom corrected to gloom
-[DEBUG] Pressing 4 current pokemon: 60
-[DEBUG] Pressing 1 current pokemon: 60
-[DEBUG] Pressing 1 current pokemon: 60
-Current Pokemon is 61
-o has NOT passed name verification
-o iy d has NOT passed name verification
-oy d has NOT passed name verification
-s ty e has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 61
-[DEBUG] Pressing 1 current pokemon: 61
-[DEBUG] Pressing 4 current pokemon: 61
-Current Pokemon is 62
-e e oy has NOT passed name verification
-t t t has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 62
-[DEBUG] Pressing 1 current pokemon: 62
-[DEBUG] Pressing 1 current pokemon: 62
-Current Pokemon is 63
-sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 63
-[DEBUG] Pressing 1 current pokemon: 63
-[DEBUG] Pressing 2 current pokemon: 63
-Current Pokemon is 64
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 64
-[DEBUG] Pressing 1 current pokemon: 64
-[DEBUG] Pressing 1 current pokemon: 64
-Current Pokemon is 65
-e ty has NOT passed name verification
-e iy d has NOT passed name verification
-o e has NOT passed name verification
-r t i has NOT passed name verification
-e ty has NOT passed name verification
-e ty has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 65
-[DEBUG] Pressing 1 current pokemon: 65
-[DEBUG] Pressing 2 current pokemon: 65
-Current Pokemon is 66
-e e iy t has NOT passed name verification
-s ty e has NOT passed name verification
-a e has NOT passed name verification
-oy d has NOT passed name verification
-r t i has NOT passed name verification
-e e oy has NOT passed name verification
-o has NOT passed name verification
-e e oy has NOT passed name verification
-r t i has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-e iy d has NOT passed name verification
-t t t has NOT passed name verification
-o e has NOT passed name verification
-t t t has NOT passed name verification
-e e o has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 66
-[DEBUG] Pressing 1 current pokemon: 66
-[DEBUG] Pressing 1 current pokemon: 66
-Current Pokemon is 67
 weepinbell corrected to weepinbell
-[DEBUG] Pressing 4 current pokemon: 67
-[DEBUG] Pressing 1 current pokemon: 67
-[DEBUG] Pressing 1 current pokemon: 67
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 51
+weepinbell corrected to weepinbell
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 52
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
+Current Pokemon is 53
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 54
+sunflora corrected to sunflora
+Pressing key: 1
+Pressing key: 1
+[UTILS] switching to sweeper (press 2)...
+Pressing key: 2
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 55
+sunflora corrected to sunflora
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 56
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 57
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
+Current Pokemon is 58
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 59
+ariados corrected to ariados
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 60
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
+Current Pokemon is 61
+weepinbell corrected to weepinbell
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 62
+ledian corrected to ledian
+Pressing key: 1
+Pressing key: 1
+[UTILS] switching to sweeper (press 2)...
+Pressing key: 2
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 63
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
+Current Pokemon is 64
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 65
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
+Current Pokemon is 66
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 67
+ariados corrected to ariados
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 68
-o has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-t s ty e ty has NOT passed name verification
-i e ty has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 68
-[DEBUG] Pressing 1 current pokemon: 68
-[DEBUG] Pressing 1 current pokemon: 68
+ledian corrected to ledian
+Pressing key: 1
+Pressing key: 1
+[UTILS] switching to sweeper (press 2)...
+Pressing key: 2
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 69
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 69
-[DEBUG] Pressing 1 current pokemon: 69
-[DEBUG] Pressing 3 current pokemon: 69
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 70
-i e ty has NOT passed name verification
-e iy d has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 70
-[DEBUG] Pressing 1 current pokemon: 70
-[DEBUG] Pressing 1 current pokemon: 70
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 71
-a e has NOT passed name verification
-s ty e has NOT passed name verification
-e e oy has NOT passed name verification
-t e ty v has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-breloom corrected to breloom
-[DEBUG] Pressing 4 current pokemon: 71
-[DEBUG] Pressing 1 current pokemon: 71
-[DEBUG] Pressing 1 current pokemon: 71
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 72
 sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 72
-[DEBUG] Pressing 1 current pokemon: 72
-[DEBUG] Pressing 2 current pokemon: 72
-[DEBUG] Pressing 2 current pokemon: 72
-[DEBUG] Pressing 1 current pokemon: 72
-[DEBUG] Pressing 1 current pokemon: 72
-sandslash corrected to sandslash
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 73
-p has NOT passed name verification
-r t i has NOT passed name verification
-o e has NOT passed name verification
-r t e has NOT passed name verification
-e has NOT passed name verification
-t t e t has NOT passed name verification
-o e has NOT passed name verification
-o e has NOT passed name verification
-weepinbell corrected to weepinbell
-[DEBUG] Pressing 4 current pokemon: 73
-[DEBUG] Pressing 1 current pokemon: 73
-[DEBUG] Pressing 1 current pokemon: 73
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 74
-e has NOT passed name verification
-t t e t has NOT passed name verification
-s ty e has NOT passed name verification
-n e has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 74
-[DEBUG] Pressing 1 current pokemon: 74
-[DEBUG] Pressing 3 current pokemon: 74
+magneton corrected to magneton
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 75
-r t i has NOT passed name verification
-t e ty v has NOT passed name verification
-sn s e has NOT passed name verification
-ety a has NOT passed name verification
-t e has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 75
-[DEBUG] Pressing 1 current pokemon: 75
-[DEBUG] Pressing 3 current pokemon: 75
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 76
-o e has NOT passed name verification
-t e ty v has NOT passed name verification
-t t t has NOT passed name verification
-s ty e has NOT passed name verification
-e e oy has NOT passed name verification
-t e ty v has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-s ty e has NOT passed name verification
-t e ty has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-s ty e has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 76
-[DEBUG] Pressing 1 current pokemon: 76
-[DEBUG] Pressing 3 current pokemon: 76
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 77
-t e ty v has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 77
-[DEBUG] Pressing 1 current pokemon: 77
-[DEBUG] Pressing 3 current pokemon: 77
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 78
-gloom corrected to gloom
-[DEBUG] Pressing 4 current pokemon: 78
-[DEBUG] Pressing 1 current pokemon: 78
-[DEBUG] Pressing 1 current pokemon: 78
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
+[UTILS] switching to sweeper (press 2)...
+Pressing key: 2
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 79
-ety a has NOT passed name verification
-r t i has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 79
-[DEBUG] Pressing 1 current pokemon: 79
-[DEBUG] Pressing 1 current pokemon: 79
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 80
-sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 80
-[DEBUG] Pressing 1 current pokemon: 80
-[DEBUG] Pressing 2 current pokemon: 80
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 81
-o e has NOT passed name verification
-e iy d has NOT passed name verification
 golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 81
-[DEBUG] Pressing 1 current pokemon: 81
-[DEBUG] Pressing 1 current pokemon: 81
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 82
-t t t has NOT passed name verification
-a e has NOT passed name verification
-e e oy has NOT passed name verification
-o e has NOT passed name verification
-e ty has NOT passed name verification
-e iy d has NOT passed name verification
-o e has NOT passed name verification
-t e ty v has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-o iy d has NOT passed name verification
 magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 82
-[DEBUG] Pressing 1 current pokemon: 82
-[DEBUG] Pressing 4 current pokemon: 82
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 83
-t has NOT passed name verification
-r t i has NOT passed name verification
-t 2 d t has NOT passed name verification
-ety a has NOT passed name verification
-r t e has NOT passed name verification
-o e has NOT passed name verification
-ledian corrected to ledian
-[DEBUG] Pressing 4 current pokemon: 83
-[DEBUG] Pressing 1 current pokemon: 83
-[DEBUG] Pressing 1 current pokemon: 83
-[DEBUG] Pressing 2 current pokemon: 83
-[DEBUG] Pressing 1 current pokemon: 83
-[DEBUG] Pressing 1 current pokemon: 83
-ledian corrected to ledian
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 84
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 84
-[DEBUG] Pressing 1 current pokemon: 84
-[DEBUG] Pressing 1 current pokemon: 84
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 85
-o e has NOT passed name verification
-ey s t has NOT passed name verification
-rockruff corrected to rockruff
-[DEBUG] Pressing 4 current pokemon: 85
-[DEBUG] Pressing 1 current pokemon: 85
-[DEBUG] Pressing 1 current pokemon: 85
+gloom corrected to gloom
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 86
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 86
-[DEBUG] Pressing 1 current pokemon: 86
-[DEBUG] Pressing 1 current pokemon: 86
+[e] golbat elite pokemon found — attempting to run
+[ELITE] Attempt 1 to run
+Pressing key: 4
+[ELITE] Successfully ran away!
+[MAIN] detect_pokemon reported run/escape — resuming walking.
 Current Pokemon is 87
-t has NOT passed name verification
-e e oy has NOT passed name verification
-ledian corrected to ledian
-[DEBUG] Pressing 4 current pokemon: 87
-[DEBUG] Pressing 1 current pokemon: 87
-[DEBUG] Pressing 1 current pokemon: 87
-[DEBUG] Pressing 2 current pokemon: 87
-[DEBUG] Pressing 1 current pokemon: 87
-[DEBUG] Pressing 1 current pokemon: 87
-ledian corrected to ledian
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 88
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 88
-[DEBUG] Pressing 1 current pokemon: 88
-[DEBUG] Pressing 2 current pokemon: 88
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 89
-r t i has NOT passed name verification
-e e oy has NOT passed name verification
-a e has NOT passed name verification
-a e has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 89
-[DEBUG] Pressing 1 current pokemon: 89
-[DEBUG] Pressing 1 current pokemon: 89
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 90
-p has NOT passed name verification
-r t i has NOT passed name verification
-oy d has NOT passed name verification
-o e has NOT passed name verification
-p has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 90
-[DEBUG] Pressing 1 current pokemon: 90
-[DEBUG] Pressing 2 current pokemon: 90
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 91
-o e has NOT passed name verification
-ey s t has NOT passed name verification
-ety a has NOT passed name verification
-t has NOT passed name verification
-e ty has NOT passed name verification
-o e has NOT passed name verification
-e e o has NOT passed name verification
-t s ty e ty has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 91
-[DEBUG] Pressing 1 current pokemon: 91
-[DEBUG] Pressing 1 current pokemon: 91
+ledian corrected to ledian
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 92
-ey ny e has NOT passed name verification
-i e ty has NOT passed name verification
-o has NOT passed name verification
-e iy i has NOT passed name verification
-ey ny e has NOT passed name verification
-i e ty has NOT passed name verification
-e e o has NOT passed name verification
-e iy i has NOT passed name verification
-i w has NOT passed name verification
-e e o has NOT passed name verification
-e e o has NOT passed name verification
-o e e has NOT passed name verification
-o y has NOT passed name verification
-e iy d has NOT passed name verification
-o has NOT passed name verification
-e iy i has NOT passed name verification
-e ty has NOT passed name verification
-o has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 92
-[DEBUG] Pressing 1 current pokemon: 92
-[DEBUG] Pressing 2 current pokemon: 92
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 93
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 93
-[DEBUG] Pressing 1 current pokemon: 93
-[DEBUG] Pressing 1 current pokemon: 93
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 94
-s has NOT passed name verification
-sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 94
-[DEBUG] Pressing 1 current pokemon: 94
-[DEBUG] Pressing 2 current pokemon: 94
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 95
-o has NOT passed name verification
-e iy d has NOT passed name verification
-o e has NOT passed name verification
-a e has NOT passed name verification
-o has NOT passed name verification
-e e o has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 95
-[DEBUG] Pressing 1 current pokemon: 95
-[DEBUG] Pressing 4 current pokemon: 95
+weepinbell corrected to weepinbell
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 96
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 96
-[DEBUG] Pressing 1 current pokemon: 96
-[DEBUG] Pressing 3 current pokemon: 96
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 97
-e e oy has NOT passed name verification
-o iy d has NOT passed name verification
-o has NOT passed name verification
-e e oy has NOT passed name verification
-t t has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 97
-[DEBUG] Pressing 1 current pokemon: 97
-[DEBUG] Pressing 1 current pokemon: 97
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 98
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 98
-[DEBUG] Pressing 1 current pokemon: 98
-[DEBUG] Pressing 3 current pokemon: 98
-[DEBUG] Pressing 2 current pokemon: 98
-[DEBUG] Pressing 1 current pokemon: 98
-[DEBUG] Pressing 1 current pokemon: 98
-gyarados corrected to gyarados
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 99
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 99
-[DEBUG] Pressing 1 current pokemon: 99
-[DEBUG] Pressing 4 current pokemon: 99
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 100
 nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 100
-[DEBUG] Pressing 1 current pokemon: 100
-[DEBUG] Pressing 1 current pokemon: 100
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 101
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 101
-[DEBUG] Pressing 1 current pokemon: 101
-[DEBUG] Pressing 4 current pokemon: 101
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 102
-i e ty has NOT passed name verification
-e ty has NOT passed name verification
-o i, s has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 102
-[DEBUG] Pressing 1 current pokemon: 102
-[DEBUG] Pressing 1 current pokemon: 102
-Current Pokemon is 103
-o has NOT passed name verification
-t nn has NOT passed name verification
-o has NOT passed name verification
-t nn has NOT passed name verification
 nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 103
-[DEBUG] Pressing 1 current pokemon: 103
-[DEBUG] Pressing 1 current pokemon: 103
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 103
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 104
-t s ty e ty has NOT passed name verification
-i st has NOT passed name verification
-a e has NOT passed name verification
-e e o has NOT passed name verification
-t s ty e ty has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 104
-[DEBUG] Pressing 1 current pokemon: 104
-[DEBUG] Pressing 1 current pokemon: 104
+gloom corrected to gloom
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 105
-e e o has NOT passed name verification
 magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 105
-[DEBUG] Pressing 1 current pokemon: 105
-[DEBUG] Pressing 4 current pokemon: 105
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 106
-[e] magneton corrected to magneton
-[DEBUG] Pressing 4 current pokemon: 106
-[DEBUG] Pressing 1 current pokemon: 106
-[DEBUG] Pressing 4 current pokemon: 106
-Current Pokemon is 107
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 107
-[DEBUG] Pressing 1 current pokemon: 107
-[DEBUG] Pressing 1 current pokemon: 107
-Current Pokemon is 108
-t t t has NOT passed name verification
-o y has NOT passed name verification
-t e has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-e s ty has NOT passed name verification
-weepinbell corrected to weepinbell
-[DEBUG] Pressing 4 current pokemon: 108
-[DEBUG] Pressing 1 current pokemon: 108
-[DEBUG] Pressing 1 current pokemon: 108
-Current Pokemon is 109
-i st has NOT passed name verification
 golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 109
-[DEBUG] Pressing 1 current pokemon: 109
-[DEBUG] Pressing 2 current pokemon: 109
+Pressing key: 1
+Pressing key: 2
+Current Pokemon is 107
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 108
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 109
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 110
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 110
-[DEBUG] Pressing 1 current pokemon: 110
-[DEBUG] Pressing 4 current pokemon: 110
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 111
-e e iy t has NOT passed name verification
-s ty e has NOT passed name verification
-e ty has NOT passed name verification
-t has NOT passed name verification
-r t i has NOT passed name verification
-s ty e has NOT passed name verification
-s ty e has NOT passed name verification
-n e has NOT passed name verification
-ledian corrected to ledian
-[DEBUG] Pressing 4 current pokemon: 111
-[DEBUG] Pressing 1 current pokemon: 111
-[DEBUG] Pressing 1 current pokemon: 111
-[DEBUG] Pressing 2 current pokemon: 111
-[DEBUG] Pressing 1 current pokemon: 111
-[DEBUG] Pressing 1 current pokemon: 111
-ledian corrected to ledian
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 112
 nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 112
-[DEBUG] Pressing 1 current pokemon: 112
-[DEBUG] Pressing 1 current pokemon: 112
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 113
-o has NOT passed name verification
-t t t has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 113
-[DEBUG] Pressing 1 current pokemon: 113
-[DEBUG] Pressing 1 current pokemon: 113
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 114
-t has NOT passed name verification
 gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 114
-[DEBUG] Pressing 1 current pokemon: 114
-[DEBUG] Pressing 3 current pokemon: 114
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 115
-e e oy has NOT passed name verification
-e ty has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 115
-[DEBUG] Pressing 1 current pokemon: 115
-[DEBUG] Pressing 3 current pokemon: 115
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 116
-e ty has NOT passed name verification
-r t i has NOT passed name verification
-o has NOT passed name verification
-ledian corrected to ledian
-[DEBUG] Pressing 4 current pokemon: 116
-[DEBUG] Pressing 1 current pokemon: 116
-[DEBUG] Pressing 1 current pokemon: 116
-Current Pokemon is 117
-e ty has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 117
-[DEBUG] Pressing 1 current pokemon: 117
-[DEBUG] Pressing 4 current pokemon: 117
-Current Pokemon is 118
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 118
-[DEBUG] Pressing 1 current pokemon: 118
-[DEBUG] Pressing 1 current pokemon: 118
-Current Pokemon is 119
-o e has NOT passed name verification
-t t t has NOT passed name verification
-s ty e has NOT passed name verification
 gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 119
-[DEBUG] Pressing 1 current pokemon: 119
-[DEBUG] Pressing 3 current pokemon: 119
+Pressing key: 1
+Pressing key: 3
+Current Pokemon is 117
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
+Current Pokemon is 118
+gloom corrected to gloom
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 119
+sandslash corrected to sandslash
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 120
-s ty e has NOT passed name verification
-e ty has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 120
-[DEBUG] Pressing 1 current pokemon: 120
-[DEBUG] Pressing 1 current pokemon: 120
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 121
-o has NOT passed name verification
-o iy e t s has NOT passed name verification
-bty a has NOT passed name verification
-t 2 d t has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 121
-[DEBUG] Pressing 1 current pokemon: 121
-[DEBUG] Pressing 1 current pokemon: 121
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 122
-r t e has NOT passed name verification
-t e 2y v has NOT passed name verification
-t t t has NOT passed name verification
-t t t has NOT passed name verification
-n t e has NOT passed name verification
-p has NOT passed name verification
-t e ty v has NOT passed name verification
-t t t has NOT passed name verification
-ledian corrected to ledian
-[DEBUG] Pressing 4 current pokemon: 122
-[DEBUG] Pressing 1 current pokemon: 122
-[DEBUG] Pressing 1 current pokemon: 122
-[DEBUG] Pressing 2 current pokemon: 122
-[DEBUG] Pressing 1 current pokemon: 122
-[DEBUG] Pressing 1 current pokemon: 122
-ledian corrected to ledian
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 123
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 123
-[DEBUG] Pressing 1 current pokemon: 123
-[DEBUG] Pressing 2 current pokemon: 123
+sandslash corrected to sandslash
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 124
-ety a has NOT passed name verification
-t e 2y v has NOT passed name verification
-o e has NOT passed name verification
-r t i has NOT passed name verification
-ety a has NOT passed name verification
-ey s t has NOT passed name verification
-t t t has NOT passed name verification
-n t e has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 124
-[DEBUG] Pressing 1 current pokemon: 124
-[DEBUG] Pressing 1 current pokemon: 124
+happiny corrected to happiny
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 125
-o e has NOT passed name verification
-e e oy has NOT passed name verification
-ariados corrected to ariados
-[DEBUG] Pressing 4 current pokemon: 125
-[DEBUG] Pressing 1 current pokemon: 125
-[DEBUG] Pressing 1 current pokemon: 125
-Current Pokemon is 126
-r t i has NOT passed name verification
-o e has NOT passed name verification
-o has NOT passed name verification
-s ty e has NOT passed name verification
-r t i has NOT passed name verification
-e ty has NOT passed name verification
-o has NOT passed name verification
-t t t has NOT passed name verification
-r t i has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-ey s t has NOT passed name verification
-o iy e t s has NOT passed name verification
-o has NOT passed name verification
-e ty has NOT passed name verification
-t has NOT passed name verification
-t e 2y v has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 126
-[DEBUG] Pressing 1 current pokemon: 126
-[DEBUG] Pressing 1 current pokemon: 126
-Current Pokemon is 127
 weepinbell corrected to weepinbell
-[DEBUG] Pressing 4 current pokemon: 127
-[DEBUG] Pressing 1 current pokemon: 127
-[DEBUG] Pressing 1 current pokemon: 127
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 126
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
+Current Pokemon is 127
+ariados corrected to ariados
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 128
-o e has NOT passed name verification
-r t i has NOT passed name verification
-sn s e has NOT passed name verification
-sty a has NOT passed name verification
-t e ty v has NOT passed name verification
-o e has NOT passed name verification
-n e has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 128
-[DEBUG] Pressing 1 current pokemon: 128
-[DEBUG] Pressing 1 current pokemon: 128
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 129
-sn s e has NOT passed name verification
-t e ty v has NOT passed name verification
-breloom corrected to breloom
-[DEBUG] Pressing 4 current pokemon: 129
-[DEBUG] Pressing 1 current pokemon: 129
-[DEBUG] Pressing 1 current pokemon: 129
-Current Pokemon is 130
-i e ty has NOT passed name verification
-a e has NOT passed name verification
-a e has NOT passed name verification
-e e o has NOT passed name verification
-e e o has NOT passed name verification
 nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 130
-[DEBUG] Pressing 1 current pokemon: 130
-[DEBUG] Pressing 1 current pokemon: 130
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 130
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 131
-t t t has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 131
-[DEBUG] Pressing 1 current pokemon: 131
-[DEBUG] Pressing 2 current pokemon: 131
+ariados corrected to ariados
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 132
 nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 132
-[DEBUG] Pressing 1 current pokemon: 132
-[DEBUG] Pressing 1 current pokemon: 132
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 133
-o has NOT passed name verification
-i e ty has NOT passed name verification
-ariados corrected to ariados
-[DEBUG] Pressing 4 current pokemon: 133
-[DEBUG] Pressing 1 current pokemon: 133
-[DEBUG] Pressing 1 current pokemon: 133
-Current Pokemon is 134
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 134
-[DEBUG] Pressing 1 current pokemon: 134
-[DEBUG] Pressing 4 current pokemon: 134
-Current Pokemon is 135
-t d t has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 135
-[DEBUG] Pressing 1 current pokemon: 135
-[DEBUG] Pressing 4 current pokemon: 135
-Current Pokemon is 136
-t t t has NOT passed name verification
-o y has NOT passed name verification
-i e ty has NOT passed name verification
-o has NOT passed name verification
-i e ty has NOT passed name verification
-o y has NOT passed name verification
-s has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 136
-[DEBUG] Pressing 1 current pokemon: 136
-[DEBUG] Pressing 1 current pokemon: 136
-Current Pokemon is 137
-o has NOT passed name verification
-e ty has NOT passed name verification
-t nn has NOT passed name verification
-e ty has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-ariados corrected to ariados
-[DEBUG] Pressing 4 current pokemon: 137
-[DEBUG] Pressing 1 current pokemon: 137
-[DEBUG] Pressing 1 current pokemon: 137
-Current Pokemon is 138
-s s has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 138
-[DEBUG] Pressing 1 current pokemon: 138
-[DEBUG] Pressing 2 current pokemon: 138
-Current Pokemon is 139
-e e o has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 139
-[DEBUG] Pressing 1 current pokemon: 139
-[DEBUG] Pressing 3 current pokemon: 139
-Current Pokemon is 140
-t d t has NOT passed name verification
-s has NOT passed name verification
-gloom corrected to gloom
-[DEBUG] Pressing 4 current pokemon: 140
-[DEBUG] Pressing 1 current pokemon: 140
-[DEBUG] Pressing 1 current pokemon: 140
-Current Pokemon is 141
-t nn has NOT passed name verification
-a e has NOT passed name verification
-o iy d has NOT passed name verification
-e iy d has NOT passed name verification
-s ty e has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-t t t has NOT passed name verification
-t nn has NOT passed name verification
-e ty has NOT passed name verification
-o has NOT passed name verification
-e iy d has NOT passed name verification
-t s ty e ty has NOT passed name verification
-t t t has NOT passed name verification
-e e o has NOT passed name verification
-e ty has NOT passed name verification
-o i, s has NOT passed name verification
-o has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 141
-[DEBUG] Pressing 1 current pokemon: 141
-[DEBUG] Pressing 1 current pokemon: 141
-Current Pokemon is 142
-o e has NOT passed name verification
-s ty e has NOT passed name verification
-e iy d has NOT passed name verification
-r t i has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 142
-[DEBUG] Pressing 1 current pokemon: 142
-[DEBUG] Pressing 1 current pokemon: 142
-Current Pokemon is 143
-a e has NOT passed name verification
-e e oy has NOT passed name verification
-r t i has NOT passed name verification
-e e oy has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 143
-[DEBUG] Pressing 1 current pokemon: 143
-[DEBUG] Pressing 1 current pokemon: 143
-Current Pokemon is 144
-a e has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 144
-[DEBUG] Pressing 1 current pokemon: 144
-[DEBUG] Pressing 4 current pokemon: 144
-Current Pokemon is 145
-r t i has NOT passed name verification
-e ty has NOT passed name verification
-a e has NOT passed name verification
-e e oy has NOT passed name verification
-r t i has NOT passed name verification
-e iy d has NOT passed name verification
-o has NOT passed name verification
-t t t has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 145
-[DEBUG] Pressing 1 current pokemon: 145
-[DEBUG] Pressing 1 current pokemon: 145
-Current Pokemon is 146
-t t e t has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 146
-[DEBUG] Pressing 1 current pokemon: 146
-[DEBUG] Pressing 4 current pokemon: 146
-Current Pokemon is 147
-r t i has NOT passed name verification
-a e has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 147
-[DEBUG] Pressing 1 current pokemon: 147
-[DEBUG] Pressing 1 current pokemon: 147
-Current Pokemon is 148
-e ty has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 148
-[DEBUG] Pressing 1 current pokemon: 148
-[DEBUG] Pressing 2 current pokemon: 148
-Current Pokemon is 149
-r t i has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 149
-[DEBUG] Pressing 1 current pokemon: 149
-[DEBUG] Pressing 4 current pokemon: 149
-Current Pokemon is 150
-t e has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 150
-[DEBUG] Pressing 1 current pokemon: 150
-[DEBUG] Pressing 4 current pokemon: 150
-Current Pokemon is 151
-o has NOT passed name verification
-r t i has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-e e o has NOT passed name verification
-r t i has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-e iy d has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 151
-[DEBUG] Pressing 1 current pokemon: 151
-[DEBUG] Pressing 4 current pokemon: 151
-Current Pokemon is 152
-t has NOT passed name verification
-e ty has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 152
-[DEBUG] Pressing 1 current pokemon: 152
-[DEBUG] Pressing 3 current pokemon: 152
-Current Pokemon is 153
-t e ty v has NOT passed name verification
-e e oy has NOT passed name verification
-o has NOT passed name verification
-t e ty has NOT passed name verification
-r t i has NOT passed name verification
-o e has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 153
-[DEBUG] Pressing 1 current pokemon: 153
-[DEBUG] Pressing 1 current pokemon: 153
-Current Pokemon is 154
-i w has NOT passed name verification
-e e o has NOT passed name verification
-e e o has NOT passed name verification
-t s ty e ty has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 154
-[DEBUG] Pressing 1 current pokemon: 154
-[DEBUG] Pressing 1 current pokemon: 154
-Current Pokemon is 155
-b i sy e has NOT passed name verification
-i e ty has NOT passed name verification
-ey ny e has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 155
-[DEBUG] Pressing 1 current pokemon: 155
-[DEBUG] Pressing 4 current pokemon: 155
-Current Pokemon is 156
-b i sy e has NOT passed name verification
-o has NOT passed name verification
-t nn has NOT passed name verification
-o has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 156
-[DEBUG] Pressing 1 current pokemon: 156
-[DEBUG] Pressing 4 current pokemon: 156
-Current Pokemon is 157
-i e ty has NOT passed name verification
-o has NOT passed name verification
-o y has NOT passed name verification
-e iy s has NOT passed name verification
-o has NOT passed name verification
-t t t has NOT passed name verification
-o y has NOT passed name verification
-i e ty has NOT passed name verification
-o has NOT passed name verification
-t t t has NOT passed name verification
-o y has NOT passed name verification
-e s ty has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 157
-[DEBUG] Pressing 1 current pokemon: 157
-[DEBUG] Pressing 2 current pokemon: 157
-Current Pokemon is 158
-e ty has NOT passed name verification
-o has NOT passed name verification
-e ty has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 158
-[DEBUG] Pressing 1 current pokemon: 158
-[DEBUG] Pressing 1 current pokemon: 158
-Current Pokemon is 159
-e ty has NOT passed name verification
-e iy d has NOT passed name verification
-r t i has NOT passed name verification
-t e has NOT passed name verification
-e e o has NOT passed name verification
-o has NOT passed name verification
-t t t has NOT passed name verification
-r t i has NOT passed name verification
-e e o has NOT passed name verification
 weepinbell corrected to weepinbell
-[DEBUG] Pressing 4 current pokemon: 159
-[DEBUG] Pressing 1 current pokemon: 159
-[DEBUG] Pressing 1 current pokemon: 159
-Current Pokemon is 160
-o e has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 160
-[DEBUG] Pressing 1 current pokemon: 160
-[DEBUG] Pressing 1 current pokemon: 160
-Current Pokemon is 161
-t t t has NOT passed name verification
-o has NOT passed name verification
-i e ty has NOT passed name verification
-t nn has NOT passed name verification
-s has NOT passed name verification
-magneton corrected to magneton
-[DEBUG] Pressing 4 current pokemon: 161
-[DEBUG] Pressing 1 current pokemon: 161
-[DEBUG] Pressing 4 current pokemon: 161
-Current Pokemon is 162
-o e has NOT passed name verification
-ariados corrected to ariados
-[DEBUG] Pressing 4 current pokemon: 162
-[DEBUG] Pressing 1 current pokemon: 162
-[DEBUG] Pressing 1 current pokemon: 162
-Current Pokemon is 163
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 163
-[DEBUG] Pressing 1 current pokemon: 163
-[DEBUG] Pressing 2 current pokemon: 163
-Current Pokemon is 164
-e e o has NOT passed name verification
-e e o has NOT passed name verification
-o e e has NOT passed name verification
-s e ty sny has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 164
-[DEBUG] Pressing 1 current pokemon: 164
-[DEBUG] Pressing 1 current pokemon: 164
-Current Pokemon is 165
-s ty e has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 165
-[DEBUG] Pressing 1 current pokemon: 165
-[DEBUG] Pressing 3 current pokemon: 165
-Current Pokemon is 166
-e e o has NOT passed name verification
-t s ty e ty has NOT passed name verification
-e e o has NOT passed name verification
-o has NOT passed name verification
-e ty has NOT passed name verification
-t nn has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 166
-[DEBUG] Pressing 1 current pokemon: 166
-[DEBUG] Pressing 1 current pokemon: 166
-Current Pokemon is 167
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 134
 golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 167
-[DEBUG] Pressing 1 current pokemon: 167
-[DEBUG] Pressing 1 current pokemon: 167
-[DEBUG] Pressing 1 current pokemon: 167
-[DEBUG] Pressing 1 current pokemon: 167
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 135
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 136
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
+Current Pokemon is 137
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
+Current Pokemon is 138
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 139
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
+Current Pokemon is 140
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
+Current Pokemon is 141
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 142
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 143
+ledian corrected to ledian
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 144
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
+Current Pokemon is 145
+gloom corrected to gloom
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 146
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 147
+ariados corrected to ariados
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 148
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 149
+sandslash corrected to sandslash
+Pressing key: 1
+Pressing key: 2
+Current Pokemon is 150
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 151
+weepinbell corrected to weepinbell
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 152
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 153
+rockruff corrected to rockruff
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 154
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 155
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
+Current Pokemon is 156
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 157
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 158
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
+Current Pokemon is 159
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 160
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
+Current Pokemon is 161
+happiny corrected to happiny
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 162
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 163
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
+Current Pokemon is 164
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
+Current Pokemon is 165
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 166
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 167
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 168
 magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 168
-[DEBUG] Pressing 1 current pokemon: 168
-[DEBUG] Pressing 4 current pokemon: 168
+Pressing key: 1
+Pressing key: 4
+[UTILS] switching to sweeper (press 2)...
+Pressing key: 2
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 169
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 169
-[DEBUG] Pressing 1 current pokemon: 169
-[DEBUG] Pressing 1 current pokemon: 169
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 170
-sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 170
-[DEBUG] Pressing 1 current pokemon: 170
-[DEBUG] Pressing 2 current pokemon: 170
+gloom corrected to gloom
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 171
-e ty has NOT passed name verification
-o has NOT passed name verification
-a e has NOT passed name verification
-oy d has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 171
-[DEBUG] Pressing 1 current pokemon: 171
-[DEBUG] Pressing 1 current pokemon: 171
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 172
-t t t has NOT passed name verification
-t e ty has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 172
-[DEBUG] Pressing 1 current pokemon: 172
-[DEBUG] Pressing 4 current pokemon: 172
+weepinbell corrected to weepinbell
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 173
-e e o has NOT passed name verification
-t t t has NOT passed name verification
-e e oy has NOT passed name verification
-r t i has NOT passed name verification
-o iy d has NOT passed name verification
-a e has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 173
-[DEBUG] Pressing 1 current pokemon: 173
-[DEBUG] Pressing 1 current pokemon: 173
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 174
-p has NOT passed name verification
-r t i has NOT passed name verification
-t t has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 174
-[DEBUG] Pressing 1 current pokemon: 174
-[DEBUG] Pressing 1 current pokemon: 174
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 175
-ety a has NOT passed name verification
-t e 2y v has NOT passed name verification
-o iy e t s has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 175
-[DEBUG] Pressing 1 current pokemon: 175
-[DEBUG] Pressing 1 current pokemon: 175
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 176
-ety a has NOT passed name verification
-t e has NOT passed name verification
-o e has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 176
-[DEBUG] Pressing 1 current pokemon: 176
-[DEBUG] Pressing 1 current pokemon: 176
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 177
-tr 2 e has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-e e o has NOT passed name verification
-o e has NOT passed name verification
 gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 177
-[DEBUG] Pressing 1 current pokemon: 177
-[DEBUG] Pressing 3 current pokemon: 177
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 178
-o has NOT passed name verification
-e e o has NOT passed name verification
-t t e t has NOT passed name verification
-o iy e t s has NOT passed name verification
-gloom corrected to gloom
-[DEBUG] Pressing 4 current pokemon: 178
-[DEBUG] Pressing 1 current pokemon: 178
-[DEBUG] Pressing 1 current pokemon: 178
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 179
-o has NOT passed name verification
-e iy d has NOT passed name verification
-o e has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-s ty e has NOT passed name verification
-ariados corrected to ariados
-[DEBUG] Pressing 4 current pokemon: 179
-[DEBUG] Pressing 1 current pokemon: 179
-[DEBUG] Pressing 1 current pokemon: 179
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
 Current Pokemon is 180
-o has NOT passed name verification
-e e o has NOT passed name verification
-t t t has NOT passed name verification
-s ty e has NOT passed name verification
-e e o has NOT passed name verification
-o has NOT passed name verification
-e ty has NOT passed name verification
-o e has NOT passed name verification
-e ty has NOT passed name verification
-a e has NOT passed name verification
-e iy d has NOT passed name verification
-e ty has NOT passed name verification
 golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 180
-[DEBUG] Pressing 1 current pokemon: 180
-[DEBUG] Pressing 2 current pokemon: 180
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 181
-e e o has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 181
-[DEBUG] Pressing 1 current pokemon: 181
-[DEBUG] Pressing 3 current pokemon: 181
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 182
-o has NOT passed name verification
-t s ty e ty has NOT passed name verification
-s ty e has NOT passed name verification
-e e o has NOT passed name verification
-t t t has NOT passed name verification
-t nn has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 182
-[DEBUG] Pressing 1 current pokemon: 182
-[DEBUG] Pressing 1 current pokemon: 182
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 183
-gloom corrected to gloom
-[DEBUG] Pressing 4 current pokemon: 183
-[DEBUG] Pressing 1 current pokemon: 183
-[DEBUG] Pressing 1 current pokemon: 183
+ariados corrected to ariados
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 184
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 184
-[DEBUG] Pressing 1 current pokemon: 184
-[DEBUG] Pressing 1 current pokemon: 184
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 185
-o has NOT passed name verification
-o has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 185
-[DEBUG] Pressing 1 current pokemon: 185
-[DEBUG] Pressing 1 current pokemon: 185
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 186
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 186
-[DEBUG] Pressing 1 current pokemon: 186
-[DEBUG] Pressing 1 current pokemon: 186
+weepinbell corrected to weepinbell
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 187
-o iy d has NOT passed name verification
-o has NOT passed name verification
-i e ty has NOT passed name verification
-ey ny e has NOT passed name verification
-i st has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 187
-[DEBUG] Pressing 1 current pokemon: 187
-[DEBUG] Pressing 4 current pokemon: 187
-[DEBUG] Pressing 2 current pokemon: 187
-[DEBUG] Pressing 1 current pokemon: 187
-[DEBUG] Pressing 1 current pokemon: 187
-magcargo corrected to magcargo
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 188
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 188
-[DEBUG] Pressing 1 current pokemon: 188
-[DEBUG] Pressing 2 current pokemon: 188
-Current Pokemon is 189
-o y has NOT passed name verification
-t nn has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 189
-[DEBUG] Pressing 1 current pokemon: 189
-[DEBUG] Pressing 2 current pokemon: 189
-Current Pokemon is 190
-o has NOT passed name verification
-o has NOT passed name verification
-e ty has NOT passed name verification
 gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 190
-[DEBUG] Pressing 1 current pokemon: 190
-[DEBUG] Pressing 3 current pokemon: 190
+Pressing key: 1
+Pressing key: 3
+Current Pokemon is 189
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 190
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 191
-o e has NOT passed name verification
-oy d has NOT passed name verification
-oy d has NOT passed name verification
-t has NOT passed name verification
-e has NOT passed name verification
-o iy e t s has NOT passed name verification
-e e oy has NOT passed name verification
-o e has NOT passed name verification
-gloom corrected to gloom
-[DEBUG] Pressing 4 current pokemon: 191
-[DEBUG] Pressing 1 current pokemon: 191
-[DEBUG] Pressing 1 current pokemon: 191
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 192
-o e has NOT passed name verification
-t t e t has NOT passed name verification
-et i has NOT passed name verification
-r t e has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 192
-[DEBUG] Pressing 1 current pokemon: 192
-[DEBUG] Pressing 1 current pokemon: 192
+ledian corrected to ledian
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 193
-s has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 193
-[DEBUG] Pressing 1 current pokemon: 193
-[DEBUG] Pressing 1 current pokemon: 193
-Current Pokemon is 194
-o has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 194
-[DEBUG] Pressing 1 current pokemon: 194
-[DEBUG] Pressing 1 current pokemon: 194
-Current Pokemon is 195
-t nn has NOT passed name verification
-o has NOT passed name verification
-t t has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 195
-[DEBUG] Pressing 1 current pokemon: 195
-[DEBUG] Pressing 1 current pokemon: 195
-Current Pokemon is 196
-gloom corrected to gloom
-[DEBUG] Pressing 4 current pokemon: 196
-[DEBUG] Pressing 1 current pokemon: 196
-[DEBUG] Pressing 1 current pokemon: 196
-Current Pokemon is 197
-t t t has NOT passed name verification
-o has NOT passed name verification
-i e ty has NOT passed name verification
-t t t has NOT passed name verification
-e e oy has NOT passed name verification
-o has NOT passed name verification
-s ty e has NOT passed name verification
-e e oy has NOT passed name verification
-r t i has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 197
-[DEBUG] Pressing 1 current pokemon: 197
-[DEBUG] Pressing 1 current pokemon: 197
-Current Pokemon is 198
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 198
-[DEBUG] Pressing 1 current pokemon: 198
-[DEBUG] Pressing 1 current pokemon: 198
-Current Pokemon is 199
-o has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 199
-[DEBUG] Pressing 1 current pokemon: 199
-[DEBUG] Pressing 1 current pokemon: 199
-Current Pokemon is 200
-e t has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 200
-[DEBUG] Pressing 1 current pokemon: 200
-[DEBUG] Pressing 1 current pokemon: 200
-Current Pokemon is 201
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 201
-[DEBUG] Pressing 1 current pokemon: 201
-[DEBUG] Pressing 1 current pokemon: 201
-[DEBUG] Pressing 1 current pokemon: 201
-[DEBUG] Pressing 1 current pokemon: 201
-Current Pokemon is 202
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 202
-[DEBUG] Pressing 1 current pokemon: 202
-[DEBUG] Pressing 1 current pokemon: 202
-Current Pokemon is 203
-o has NOT passed name verification
-t d t has NOT passed name verification
 sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 203
-[DEBUG] Pressing 1 current pokemon: 203
-[DEBUG] Pressing 2 current pokemon: 203
+Pressing key: 1
+Pressing key: 2
+Current Pokemon is 194
+ariados corrected to ariados
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 195
+ledian corrected to ledian
+Pressing key: 1
+Pressing key: 1
+[UTILS] switching to sweeper (press 2)...
+Pressing key: 2
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 196
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 197
+ledian corrected to ledian
+Pressing key: 1
+Pressing key: 1
+[UTILS] switching to sweeper (press 2)...
+Pressing key: 2
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 198
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
+Current Pokemon is 199
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 200
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
+Current Pokemon is 201
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
+Current Pokemon is 202
+gyarados corrected to gyarados
+Pressing key: 1
+Pressing key: 3
+Current Pokemon is 203
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 204
 nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 204
-[DEBUG] Pressing 1 current pokemon: 204
-[DEBUG] Pressing 1 current pokemon: 204
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 205
-e ty has NOT passed name verification
-e ty has NOT passed name verification
-t has NOT passed name verification
-p has NOT passed name verification
-sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 205
-[DEBUG] Pressing 1 current pokemon: 205
-[DEBUG] Pressing 2 current pokemon: 205
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 206
-e e oy has NOT passed name verification
-t e ty v has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-r t i has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-t t t has NOT passed name verification
-r t i has NOT passed name verification
 golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 206
-[DEBUG] Pressing 1 current pokemon: 206
-[DEBUG] Pressing 2 current pokemon: 206
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 207
-t t t has NOT passed name verification
-r t i has NOT passed name verification
-e t has NOT passed name verification
-sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 207
-[DEBUG] Pressing 1 current pokemon: 207
-[DEBUG] Pressing 2 current pokemon: 207
+ariados corrected to ariados
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 208
-s ty e has NOT passed name verification
-e e oy has NOT passed name verification
-t t e t has NOT passed name verification
-i e ty has NOT passed name verification
-e iy d has NOT passed name verification
-t t has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 208
-[DEBUG] Pressing 1 current pokemon: 208
-[DEBUG] Pressing 2 current pokemon: 208
+ariados corrected to ariados
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 209
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 209
-[DEBUG] Pressing 1 current pokemon: 209
-[DEBUG] Pressing 4 current pokemon: 209
+golem corrected to golem
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 210
-t e t has NOT passed name verification
-o iy d has NOT passed name verification
-a e has NOT passed name verification
-e ty has NOT passed name verification
-i e ty has NOT passed name verification
-t e ty has NOT passed name verification
-a e has NOT passed name verification
-o has NOT passed name verification
-t t t has NOT passed name verification
-o e has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-o e has NOT passed name verification
-e ty has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 210
-[DEBUG] Pressing 1 current pokemon: 210
-[DEBUG] Pressing 3 current pokemon: 210
+golbat corrected to golbat
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 211
-o has NOT passed name verification
-t nn has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 211
-[DEBUG] Pressing 1 current pokemon: 211
-[DEBUG] Pressing 1 current pokemon: 211
-Current Pokemon is 212
-i e ty has NOT passed name verification
-o has NOT passed name verification
-t t t has NOT passed name verification
-gloom corrected to gloom
-[DEBUG] Pressing 4 current pokemon: 212
-[DEBUG] Pressing 1 current pokemon: 212
-[DEBUG] Pressing 1 current pokemon: 212
-Current Pokemon is 213
-t t has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 213
-[DEBUG] Pressing 1 current pokemon: 213
-[DEBUG] Pressing 1 current pokemon: 213
-Current Pokemon is 214
-ledian corrected to ledian
-[DEBUG] Pressing 4 current pokemon: 214
-[DEBUG] Pressing 1 current pokemon: 214
-[DEBUG] Pressing 1 current pokemon: 214
-[DEBUG] Pressing 2 current pokemon: 214
-[DEBUG] Pressing 1 current pokemon: 214
-[DEBUG] Pressing 1 current pokemon: 214
-ledian corrected to ledian
-Current Pokemon is 215
 magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 215
-[DEBUG] Pressing 1 current pokemon: 215
-[DEBUG] Pressing 4 current pokemon: 215
+Pressing key: 1
+Pressing key: 4
+Current Pokemon is 212
+sandslash corrected to sandslash
+Pressing key: 1
+Pressing key: 2
+Current Pokemon is 213
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
+Current Pokemon is 214
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
+Current Pokemon is 215
+weepinbell corrected to weepinbell
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 216
 nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 216
-[DEBUG] Pressing 1 current pokemon: 216
-[DEBUG] Pressing 1 current pokemon: 216
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 217
-ey s t has NOT passed name verification
-o e has NOT passed name verification
-e t has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 217
-[DEBUG] Pressing 1 current pokemon: 217
-[DEBUG] Pressing 1 current pokemon: 217
+magcargo corrected to magcargo
+Pressing key: 1
+Pressing key: 4
 Current Pokemon is 218
-e e oy has NOT passed name verification
-s ty e has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 218
-[DEBUG] Pressing 1 current pokemon: 218
-[DEBUG] Pressing 1 current pokemon: 218
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 219
-bty a has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 219
-[DEBUG] Pressing 1 current pokemon: 219
-[DEBUG] Pressing 1 current pokemon: 219
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 220
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 220
-[DEBUG] Pressing 1 current pokemon: 220
-[DEBUG] Pressing 1 current pokemon: 220
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 221
-e t has NOT passed name verification
-o e has NOT passed name verification
-o has NOT passed name verification
-s ty e has NOT passed name verification
-n e has NOT passed name verification
-e e iy t has NOT passed name verification
-s ty e has NOT passed name verification
-e ty has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 221
-[DEBUG] Pressing 1 current pokemon: 221
-[DEBUG] Pressing 4 current pokemon: 221
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 222
-t has NOT passed name verification
-e ty has NOT passed name verification
-a e has NOT passed name verification
-ey s t has NOT passed name verification
-ety a has NOT passed name verification
-r t i has NOT passed name verification
-o e has NOT passed name verification
-r t i has NOT passed name verification
-ety a has NOT passed name verification
 nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 222
-[DEBUG] Pressing 1 current pokemon: 222
-[DEBUG] Pressing 1 current pokemon: 222
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 223
-r t i has NOT passed name verification
-t 2 d t has NOT passed name verification
-ety a has NOT passed name verification
-o e has NOT passed name verification
-e e oy has NOT passed name verification
-e e oy has NOT passed name verification
-sn s e has NOT passed name verification
-ety a has NOT passed name verification
-e e ) has NOT passed name verification
-o e has NOT passed name verification
-r t i has NOT passed name verification
-ety a has NOT passed name verification
-t t has NOT passed name verification
-weepinbell corrected to weepinbell
-[DEBUG] Pressing 4 current pokemon: 223
-[DEBUG] Pressing 1 current pokemon: 223
-[DEBUG] Pressing 1 current pokemon: 223
+nidorino corrected to nidorino
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 224
-ety a has NOT passed name verification
-t e has NOT passed name verification
 golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 224
-[DEBUG] Pressing 1 current pokemon: 224
-[DEBUG] Pressing 2 current pokemon: 224
+Pressing key: 1
+Pressing key: 2
 Current Pokemon is 225
-a e has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 225
-[DEBUG] Pressing 1 current pokemon: 225
-[DEBUG] Pressing 2 current pokemon: 225
+nidorina corrected to nidorina
+Pressing key: 1
+Pressing key: 1
+Pressing key: 1
+Pressing key: 1
 Current Pokemon is 226
-o has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 226
-[DEBUG] Pressing 1 current pokemon: 226
-[DEBUG] Pressing 4 current pokemon: 226
-Current Pokemon is 227
-ey ny e has NOT passed name verification
-ledian corrected to ledian
-[DEBUG] Pressing 4 current pokemon: 227
-[DEBUG] Pressing 1 current pokemon: 227
-[DEBUG] Pressing 1 current pokemon: 227
-[DEBUG] Pressing 2 current pokemon: 227
-[DEBUG] Pressing 1 current pokemon: 227
-[DEBUG] Pressing 1 current pokemon: 227
-ledian corrected to ledian
-Current Pokemon is 228
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 228
-[DEBUG] Pressing 1 current pokemon: 228
-[DEBUG] Pressing 1 current pokemon: 228
-Current Pokemon is 229
-o e has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 229
-[DEBUG] Pressing 1 current pokemon: 229
-[DEBUG] Pressing 1 current pokemon: 229
-Current Pokemon is 230
-a e has NOT passed name verification
-r t i has NOT passed name verification
-i e ty has NOT passed name verification
-o has NOT passed name verification
-t t t has NOT passed name verification
 golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 230
-[DEBUG] Pressing 1 current pokemon: 230
-[DEBUG] Pressing 2 current pokemon: 230
-Current Pokemon is 231
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 231
-[DEBUG] Pressing 1 current pokemon: 231
-[DEBUG] Pressing 3 current pokemon: 231
-Current Pokemon is 232
-t t t has NOT passed name verification
-o e has NOT passed name verification
-t e ty v has NOT passed name verification
-gloom corrected to gloom
-[DEBUG] Pressing 4 current pokemon: 232
-[DEBUG] Pressing 1 current pokemon: 232
-[DEBUG] Pressing 1 current pokemon: 232
-Current Pokemon is 233
-o has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 233
-[DEBUG] Pressing 1 current pokemon: 233
-[DEBUG] Pressing 2 current pokemon: 233
-Current Pokemon is 234
-weepinbell corrected to weepinbell
-[DEBUG] Pressing 4 current pokemon: 234
-[DEBUG] Pressing 1 current pokemon: 234
-[DEBUG] Pressing 1 current pokemon: 234
-Current Pokemon is 235
-o e has NOT passed name verification
-e e o has NOT passed name verification
-s ty e has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 235
-[DEBUG] Pressing 1 current pokemon: 235
-[DEBUG] Pressing 4 current pokemon: 235
-Current Pokemon is 236
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 236
-[DEBUG] Pressing 1 current pokemon: 236
-[DEBUG] Pressing 1 current pokemon: 236
-Current Pokemon is 237
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 237
-[DEBUG] Pressing 1 current pokemon: 237
-[DEBUG] Pressing 1 current pokemon: 237
-Current Pokemon is 238
-r t i has NOT passed name verification
-sn s e has NOT passed name verification
-ety a has NOT passed name verification
-t e 2y v has NOT passed name verification
-o e has NOT passed name verification
-e e iy t has NOT passed name verification
-ety a has NOT passed name verification
-r t e has NOT passed name verification
-s ty e has NOT passed name verification
-t e has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 238
-[DEBUG] Pressing 1 current pokemon: 238
-[DEBUG] Pressing 1 current pokemon: 238
-Current Pokemon is 239
-ety a has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 239
-[DEBUG] Pressing 1 current pokemon: 239
-[DEBUG] Pressing 2 current pokemon: 239
-Current Pokemon is 240
-e e oy has NOT passed name verification
-sn s e has NOT passed name verification
-sty a has NOT passed name verification
-t e ty v has NOT passed name verification
-o e has NOT passed name verification
-r t e has NOT passed name verification
-et i has NOT passed name verification
-t e ty v has NOT passed name verification
-e ty has NOT passed name verification
-n t e has NOT passed name verification
-p has NOT passed name verification
-e e oy has NOT passed name verification
-o has NOT passed name verification
-o iy e t s has NOT passed name verification
-t has NOT passed name verification
-oy d has NOT passed name verification
-o has NOT passed name verification
-t t e t has NOT passed name verification
-t has NOT passed name verification
-t e has NOT passed name verification
-o has NOT passed name verification
-o e has NOT passed name verification
-n e has NOT passed name verification
-o e has NOT passed name verification
-e e oy has NOT passed name verification
-o e has NOT passed name verification
-happiny corrected to happiny
-[DEBUG] Pressing 4 current pokemon: 240
-[DEBUG] Pressing 1 current pokemon: 240
-[DEBUG] Pressing 1 current pokemon: 240
-Current Pokemon is 241
-t t t has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 241
-[DEBUG] Pressing 1 current pokemon: 241
-[DEBUG] Pressing 3 current pokemon: 241
-Current Pokemon is 242
-o has NOT passed name verification
-o e has NOT passed name verification
-e iy d has NOT passed name verification
-sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 242
-[DEBUG] Pressing 1 current pokemon: 242
-[DEBUG] Pressing 2 current pokemon: 242
-Current Pokemon is 243
-o i, s has NOT passed name verification
-o has NOT passed name verification
-b i sy e has NOT passed name verification
-o has NOT passed name verification
-o e has NOT passed name verification
-o has NOT passed name verification
-ey ny e has NOT passed name verification
-o has NOT passed name verification
-o iy d has NOT passed name verification
-o has NOT passed name verification
-t nn has NOT passed name verification
-weepinbell corrected to weepinbell
-[DEBUG] Pressing 4 current pokemon: 243
-[DEBUG] Pressing 1 current pokemon: 243
-[DEBUG] Pressing 1 current pokemon: 243
-Current Pokemon is 244
-t s ty e ty has NOT passed name verification
-e e o has NOT passed name verification
-e iy d has NOT passed name verification
-o y has NOT passed name verification
-o i, s has NOT passed name verification
-e iy d has NOT passed name verification
-e iy d has NOT passed name verification
-o e has NOT passed name verification
-s e ty sny has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 244
-[DEBUG] Pressing 1 current pokemon: 244
-[DEBUG] Pressing 1 current pokemon: 244
-Current Pokemon is 245
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 245
-[DEBUG] Pressing 1 current pokemon: 245
-[DEBUG] Pressing 2 current pokemon: 245
-Current Pokemon is 246
-o has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 246
-[DEBUG] Pressing 1 current pokemon: 246
-[DEBUG] Pressing 4 current pokemon: 246
-Current Pokemon is 247
-r t e has NOT passed name verification
-e e iy t has NOT passed name verification
-t t t has NOT passed name verification
-s ty e has NOT passed name verification
-r t i has NOT passed name verification
-s ty e has NOT passed name verification
-o has NOT passed name verification
-e e oy has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 247
-[DEBUG] Pressing 1 current pokemon: 247
-[DEBUG] Pressing 1 current pokemon: 247
-Current Pokemon is 248
-n e has NOT passed name verification
-s ty e has NOT passed name verification
-r t i has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 248
-[DEBUG] Pressing 1 current pokemon: 248
-[DEBUG] Pressing 4 current pokemon: 248
-Current Pokemon is 249
-o has NOT passed name verification
-t t t has NOT passed name verification
-crawdaunt corrected to crawdaunt
-[DEBUG] Pressing 4 current pokemon: 249
-[DEBUG] Pressing 1 current pokemon: 249
-[DEBUG] Pressing 3 current pokemon: 249
-Current Pokemon is 250
-o iy d has NOT passed name verification
-t e has NOT passed name verification
-t e has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 250
-[DEBUG] Pressing 1 current pokemon: 250
-[DEBUG] Pressing 2 current pokemon: 250
-Current Pokemon is 251
-s ty e has NOT passed name verification
-oy d has NOT passed name verification
-t has NOT passed name verification
-sty a has NOT passed name verification
-r t i has NOT passed name verification
-o has NOT passed name verification
-t t e t has NOT passed name verification
-t has NOT passed name verification
-e ty has NOT passed name verification
-t t t has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 251
-[DEBUG] Pressing 1 current pokemon: 251
-[DEBUG] Pressing 1 current pokemon: 251
-Current Pokemon is 252
-n e has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 252
-[DEBUG] Pressing 1 current pokemon: 252
-[DEBUG] Pressing 3 current pokemon: 252
-Current Pokemon is 253
-o e has NOT passed name verification
-e e ) has NOT passed name verification
-e has NOT passed name verification
-r t e has NOT passed name verification
-s ty e has NOT passed name verification
-o iy d has NOT passed name verification
-r t i has NOT passed name verification
-ety a has NOT passed name verification
-ey s t has NOT passed name verification
-o e has NOT passed name verification
-r t i has NOT passed name verification
-ety a has NOT passed name verification
-r t i has NOT passed name verification
-t t t has NOT passed name verification
-o e has NOT passed name verification
-e t has NOT passed name verification
-o e has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 253
-[DEBUG] Pressing 1 current pokemon: 253
-[DEBUG] Pressing 1 current pokemon: 253
-Current Pokemon is 254
-o iy d has NOT passed name verification
-t has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 254
-[DEBUG] Pressing 1 current pokemon: 254
-[DEBUG] Pressing 1 current pokemon: 254
-Current Pokemon is 255
-e ty has NOT passed name verification
-e ty has NOT passed name verification
-n t e has NOT passed name verification
-r t i has NOT passed name verification
-t t t has NOT passed name verification
-o e has NOT passed name verification
-weepinbell corrected to weepinbell
-[DEBUG] Pressing 4 current pokemon: 255
-[DEBUG] Pressing 1 current pokemon: 255
-[DEBUG] Pressing 1 current pokemon: 255
-Current Pokemon is 256
-r t e has NOT passed name verification
-o e has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 256
-[DEBUG] Pressing 1 current pokemon: 256
-[DEBUG] Pressing 1 current pokemon: 256
-Current Pokemon is 257
-e ty has NOT passed name verification
-r t i has NOT passed name verification
-t t e t has NOT passed name verification
-o has NOT passed name verification
-o e has NOT passed name verification
-n e has NOT passed name verification
-sn s e has NOT passed name verification
-t t has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 257
-[DEBUG] Pressing 1 current pokemon: 257
-[DEBUG] Pressing 1 current pokemon: 257
-Current Pokemon is 258
-i e ty has NOT passed name verification
-o has NOT passed name verification
-e e o has NOT passed name verification
-t nn has NOT passed name verification
-s ty e has NOT passed name verification
-o has NOT passed name verification
-ariados corrected to ariados
-[DEBUG] Pressing 4 current pokemon: 258
-[DEBUG] Pressing 1 current pokemon: 258
-[DEBUG] Pressing 1 current pokemon: 258
-Current Pokemon is 259
-o y has NOT passed name verification
-o has NOT passed name verification
-s s has NOT passed name verification
-o has NOT passed name verification
-ey ny e has NOT passed name verification
-i e ty has NOT passed name verification
-s has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 259
-[DEBUG] Pressing 1 current pokemon: 259
-[DEBUG] Pressing 1 current pokemon: 259
-Current Pokemon is 260
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 260
-[DEBUG] Pressing 1 current pokemon: 260
-[DEBUG] Pressing 4 current pokemon: 260
-Current Pokemon is 261
-o e has NOT passed name verification
-o e has NOT passed name verification
-e e ) has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 261
-[DEBUG] Pressing 1 current pokemon: 261
-[DEBUG] Pressing 3 current pokemon: 261
-Current Pokemon is 262
-t e 2y v has NOT passed name verification
-o e has NOT passed name verification
-t e has NOT passed name verification
-ety a has NOT passed name verification
-t t has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 262
-[DEBUG] Pressing 1 current pokemon: 262
-[DEBUG] Pressing 1 current pokemon: 262
-Current Pokemon is 263
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 263
-[DEBUG] Pressing 1 current pokemon: 263
-[DEBUG] Pressing 3 current pokemon: 263
-Current Pokemon is 264
-r t i has NOT passed name verification
-t t t has NOT passed name verification
-o has NOT passed name verification
-o has NOT passed name verification
-nidorina corrected to nidorina
-[DEBUG] Pressing 4 current pokemon: 264
-[DEBUG] Pressing 1 current pokemon: 264
-[DEBUG] Pressing 1 current pokemon: 264
-Current Pokemon is 265
-o has NOT passed name verification
-e e oy has NOT passed name verification
-r t i has NOT passed name verification
-e ty has NOT passed name verification
-o has NOT passed name verification
-r t i has NOT passed name verification
-gloom corrected to gloom
-[DEBUG] Pressing 4 current pokemon: 265
-[DEBUG] Pressing 1 current pokemon: 265
-[DEBUG] Pressing 1 current pokemon: 265
-Current Pokemon is 266
-r t e has NOT passed name verification
-r t i has NOT passed name verification
-n e has NOT passed name verification
-ety a has NOT passed name verification
-r t i has NOT passed name verification
-o e has NOT passed name verification
-e e iy t has NOT passed name verification
-magcargo corrected to magcargo
-[DEBUG] Pressing 4 current pokemon: 266
-[DEBUG] Pressing 1 current pokemon: 266
-[DEBUG] Pressing 4 current pokemon: 266
-Current Pokemon is 267
-e t has NOT passed name verification
-o e has NOT passed name verification
-t e 2y v has NOT passed name verification
-sandslash corrected to sandslash
-[DEBUG] Pressing 4 current pokemon: 267
-[DEBUG] Pressing 1 current pokemon: 267
-[DEBUG] Pressing 2 current pokemon: 267
-Current Pokemon is 268
-et i has NOT passed name verification
-t t e t has NOT passed name verification
-o has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 268
-[DEBUG] Pressing 1 current pokemon: 268
-[DEBUG] Pressing 3 current pokemon: 268
-Current Pokemon is 269
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 269
-[DEBUG] Pressing 1 current pokemon: 269
-[DEBUG] Pressing 1 current pokemon: 269
-Current Pokemon is 270
-r t i has NOT passed name verification
-o e has NOT passed name verification
-ey s t has NOT passed name verification
-gyarados corrected to gyarados
-[DEBUG] Pressing 4 current pokemon: 270
-[DEBUG] Pressing 1 current pokemon: 270
-[DEBUG] Pressing 3 current pokemon: 270
-Current Pokemon is 271
-r t i has NOT passed name verification
-o e has NOT passed name verification
-weepinbell corrected to weepinbell
-[DEBUG] Pressing 4 current pokemon: 271
-[DEBUG] Pressing 1 current pokemon: 271
-[DEBUG] Pressing 1 current pokemon: 271
-Current Pokemon is 272
-e t has NOT passed name verification
-o e has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 272
-[DEBUG] Pressing 1 current pokemon: 272
-[DEBUG] Pressing 1 current pokemon: 272
-Current Pokemon is 273
-t has NOT passed name verification
-o iy e t s has NOT passed name verification
-o has NOT passed name verification
-e e ) has NOT passed name verification
-n t e has NOT passed name verification
-s ty e has NOT passed name verification
-t t t has NOT passed name verification
-t e 2y v has NOT passed name verification
-e t has NOT passed name verification
-o e has NOT passed name verification
-o has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 273
-[DEBUG] Pressing 1 current pokemon: 273
-[DEBUG] Pressing 1 current pokemon: 273
-Current Pokemon is 274
-t 2 d t has NOT passed name verification
-e ty has NOT passed name verification
-t t t has NOT passed name verification
-n t e has NOT passed name verification
-o e has NOT passed name verification
-gloom corrected to gloom
-[DEBUG] Pressing 4 current pokemon: 274
-[DEBUG] Pressing 1 current pokemon: 274
-[DEBUG] Pressing 1 current pokemon: 274
-Current Pokemon is 275
-o has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 275
-[DEBUG] Pressing 1 current pokemon: 275
-[DEBUG] Pressing 1 current pokemon: 275
-Current Pokemon is 276
-e e iy t has NOT passed name verification
-e e ) has NOT passed name verification
-ety a has NOT passed name verification
-et i has NOT passed name verification
-o iy e t s has NOT passed name verification
-o e has NOT passed name verification
-e t has NOT passed name verification
-nidorino corrected to nidorino
-[DEBUG] Pressing 4 current pokemon: 276
-[DEBUG] Pressing 1 current pokemon: 276
-[DEBUG] Pressing 1 current pokemon: 276
-Current Pokemon is 277
-e t has NOT passed name verification
-o e has NOT passed name verification
-o iy e t s has NOT passed name verification
-bty a has NOT passed name verification
-n t e has NOT passed name verification
-e ty has NOT passed name verification
-t t e t has NOT passed name verification
-bty a has NOT passed name verification
-sty a has NOT passed name verification
-bt o has NOT passed name verification
-r t i has NOT passed name verification
-p has NOT passed name verification
-et i has NOT passed name verification
-r t i has NOT passed name verification
-e e oy has NOT passed name verification
-sn s e has NOT passed name verification
-ety a has NOT passed name verification
-t e has NOT passed name verification
-s ty e has NOT passed name verification
-n e has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 277
-[DEBUG] Pressing 1 current pokemon: 277
-[DEBUG] Pressing 1 current pokemon: 277
-Current Pokemon is 278
-r t i has NOT passed name verification
-o e has NOT passed name verification
-o e has NOT passed name verification
-ety a has NOT passed name verification
-t e has NOT passed name verification
-e e ) has NOT passed name verification
-ity at has NOT passed name verification
-sn s e has NOT passed name verification
-e e oy has NOT passed name verification
-o iy e t s has NOT passed name verification
-golem corrected to golem
-[DEBUG] Pressing 4 current pokemon: 278
-[DEBUG] Pressing 1 current pokemon: 278
-[DEBUG] Pressing 2 current pokemon: 278
-Current Pokemon is 279
-r t e has NOT passed name verification
-t e ty has NOT passed name verification
-t e ty has NOT passed name verification
-t e has NOT passed name verification
-t 2 d t has NOT passed name verification
-o iy d has NOT passed name verification
-o has NOT passed name verification
-s ty e has NOT passed name verification
-n t e has NOT passed name verification
-e e ) has NOT passed name verification
-o has NOT passed name verification
-s has NOT passed name verification
-golbat corrected to golbat
-[DEBUG] Pressing 4 current pokemon: 279
-[DEBUG] Pressing 1 current pokemon: 279
-[DEBUG] Pressing 1 current pokemon: 279
+Pressing key: 1
+Pressing key: 2
+[UTILS] switching to sweeper (press 2)...
+Pressing key: 2

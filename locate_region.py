@@ -29,7 +29,7 @@ draw = ImageDraw.Draw(screenshot)
 
 
 # Draw a rectangle around a custom area you choose
-custom_area = (lead_region)  # (left, top, right, bottom)
+custom_area = ((1514, 263, 1514+88, 263+64))  # (left, top, right, bottom)
 draw.rectangle(custom_area, outline="blue", width=3)
 
 

@@ -6,7 +6,7 @@ from pynput import keyboard
 
 running = True  # Flag global
 
-time.sleep(15)
+time.sleep(5)
 
 def auto_click():
     global running
